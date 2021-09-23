@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Special Elite', cursive;
+  text-align: center;
+  background-color:#fffbf0 
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+header h1 {
+  text-align: center;
+  margin: 1rem;
+}
+
+.input-label {
+  display: block;
+  font-size: larger;
+  margin: 2rem 0px;
+  font-weight: 800;
+}
+
+.input {
+  font-size: large;
+  display: block;
+  outline: #fff;
+  padding: 0.6rem 1rem;
+  margin: 1rem auto;
+  border: 2px solid #943d24;
+  border-radius: 0.5rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.btn-check {
+  background: #943d24;
+  border: none;
+  color: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  font-size: large;
+  outline: #fff;
+  margin: auto;
+  display: block;
+}
+
+.output {
+  font-size: x-large;
+  font-weight: 600;
+  margin: 2rem 0;
+}
+
